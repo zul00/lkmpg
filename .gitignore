@@ -1,0 +1,15 @@
+# Compiler generated
+*.cmd
+*.ko
+*.mod.*
+*.o
+*.order
+*.symvers
+.tmp_versions/*
+
+# Vim 
+*.swo
+*.swp
+
+# Ctags
+tags
